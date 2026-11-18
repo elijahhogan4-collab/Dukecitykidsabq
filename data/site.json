@@ -1,0 +1,13 @@
+{
+  "name": "Duke City Kids",
+  "url": "https://dukecitykidsabq.com",
+  "tagline": "Find kids' activities in Albuquerque — swim, martial arts, dance, camps & tutoring.",
+  "contactEmail": "hello@dukecitykidsabq.com",
+  "categories": [
+    {"slug": "swim-lessons", "name": "Swim Lessons", "emoji": "🏊", "blurb": "Year-round indoor swim schools, public pool lessons and private instructors across Albuquerque and Rio Rancho."},
+    {"slug": "martial-arts", "name": "Martial Arts", "emoji": "🥋", "blurb": "Taekwondo, karate, jiu jitsu and more — dojos and academies with classes built for kids."},
+    {"slug": "gymnastics-dance", "name": "Gymnastics & Dance", "emoji": "🤸", "blurb": "Ballet, hip-hop, tumbling and gymnastics studios for toddlers through teens."},
+    {"slug": "summer-camps", "name": "Summer Camps", "emoji": "☀️", "blurb": "Day camps, STEM camps, arts camps and city programs to fill the summer."},
+    {"slug": "tutoring", "name": "Tutoring", "emoji": "📚", "blurb": "Learning centers, math programs and one-on-one tutors for K–12 students."}
+  ]
+}
